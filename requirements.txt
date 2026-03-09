@@ -1,0 +1,4 @@
+flask
+tonsdk
+requests
+gunicorn
